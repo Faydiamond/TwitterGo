@@ -1,0 +1,1 @@
+mongodb+srv://fsocha:MongoDb.29*@twitetterrgo.rwnskfy.mongodb.net/?retryWrites=true&w=majority
