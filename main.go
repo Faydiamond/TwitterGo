@@ -1,7 +1,7 @@
 package main
 
-import "github.com/Faydiamond/TwitterGo/handlers"
+import "fmt"
 
 func main() {
-	handlers.Manejadores()
+	fmt.Println("Hola")
 }

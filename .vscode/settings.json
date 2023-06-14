@@ -1,0 +1,12 @@
+{
+    "vsmqtt.brokerProfiles": [
+        {
+            "name": "XTAM Telemtria",
+            "host": "18.189.242.242",
+            "port": 1883,
+            "username": "MQTT2",
+            "password": "MQTT2",
+            "clientId": "MQTT2"
+        }
+    ]
+}
