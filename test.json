@@ -1,0 +1,17 @@
+{
+    "Version":"2023-14-06",
+    "Statement": [
+        {
+            "Effect":"Allow",
+            "Principal":"*",
+            "Action":[
+                "s3:GetObject",
+                "s3:ListBucket"
+            ],
+            "Resource":[
+                "arn:aws:s3:::twitter-gooo",
+                "arn:aws:s3:::twitter-gooo/*"
+            ]
+        }
+    ]
+}
